@@ -10,5 +10,12 @@ PyTorch classification
 
 PyTorch detection
 --------------------------------
+
 * [Faster R-CNN on ResNet-50](https://github.com/topusOctopus/mmdetection/tree/fasterRCNN_resnet50_support) - MMD
 * [Faster R-CNN on ResNet-50 from vkoriukina](https://github.com/vkoriukina/pretrained-models.pytorch/tree/dvc_support) - MMD
+
+Data Frames
+--------------------------------
+
+* [Sea ice](https://github.com/iterative/df_sea_ice) - a simple dataframe example
+
