@@ -4,57 +4,49 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 
 ## Structured (Tabular) Data
 
-### DVC
+### DVC Only
 
 ### DVC + CML
 
-### CML
+### CML Only
 
 ## 🔤 Unstructured Text Data Projects
-### DVC 
+### DVC Only
 
 ### DVC + CML
 
-### CML
+### CML Only
 
 ## 📷 🎥 Unstructured Images/video Data 
 
-### DVC
+### DVC Only
 
 ### DVC + CML
 
-### CML
+### CML Only
 
 ## 🔉 Unstructured Audio Data
 
-### DVC
+### DVC Only
+
+* PyTorch classification - [Resnet-50](https://github.com/vkoriukina/pretrained-models.pytorch/tree/dvc_support) - Based on `pretrained-models` repo
+
+* PyTorch detection - [Faster R-CNN on ResNet-50 from vkoriukina](https://github.com/vkoriukina/pretrained-models.pytorch/tree/dvc_support) - MMD
 
 ### DVC + CML
 
-### CML
+### CML Only
 
 ## ❓ Unstructured Other Data
 
-### DVC
+### DVC Only
 
 ### DVC + CML
 
-### CML
+### CML Only
 
 
 
-PyTorch classification
---------------------------------
 
-* [Resnet-50](https://github.com/vkoriukina/pretrained-models.pytorch/tree/dvc_support) - Based on `pretrained-models` repo
-
-
-PyTorch detection
---------------------------------
-
-* [Faster R-CNN on ResNet-50 from vkoriukina](https://github.com/vkoriukina/pretrained-models.pytorch/tree/dvc_support) - MMD
-
-Data Frames
---------------------------------
 
 
