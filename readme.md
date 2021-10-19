@@ -16,6 +16,26 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 ## Tutorials
 * [DVC Streamlit Example](https://github.com/sicara/dvc-streamlit-example): Build a custom web UI with DVC and Streamlit for visually tracking & comparing model performance during R&D (adapted from [TensorFlow's transfer learning tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning)).
 
+* [DVC Pipelines and Experiments Tutorial](https://github.com/dmesquita/dvc_pipelines_and_experiments_tutorial)
+
+* [CD4ML Example ](https://github.com/sbalnojan/cd4ml-example)
+
+### Iterative
+
+* [Example-get-started](https://github.com/iterative/example-get-started)
+
+* [DVC-Checkpoints-MNIST](https://github.com/iterative/dvc-checkpoints-mnist)
+
+* [Example-DVC-Experiments](https://github.com/iterative/example-dvc-experiments)
+
+* [DVC-Learn-Project](https://github.com/iterative/dvc-learn-project)
+
 ## Real-world Projects
 * [LensKit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment): Demo DVC experiment [pipeline (DAG)](https://dvc.org/doc/user-guide/glossary#pipeline-DAG) using multiple public datasets, preprocessing & training, and Jupyter notebooks.
 * [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations.
+
+* Survival Analysis Reproducible ML - [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc)
+
+* OpenVaccine Covid-19 Vaccine Prediction - [mRNA Vaccine Degradation Prediction](https://dagshub.com/kingabzpro/mRNA-Vaccine-Degradation-Prediction)
+
+* Pretrained Discord Chatbot - [DailoGPT-Rick](https://dagshub.com/kingabzpro/DailoGPT-RickBot)
