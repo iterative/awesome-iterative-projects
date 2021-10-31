@@ -24,6 +24,7 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 ## 📷 🎥 Unstructured Images/video Data 
 
 ### DVC Only
+[sparrowml/mnist-pipeline](https://github.com/sparrowml/mnist-pipeline)
 
 ### DVC + CML
 
