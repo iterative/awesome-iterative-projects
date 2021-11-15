@@ -9,7 +9,7 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 ## Structured (Tabular) Data
 
 ### DVC Only
-
+[tryolabs/dvc-template](https://github.com/tryolabs/dvc-template) - A template repository for projects using DVC
 ### DVC + CML
 
 ### CML Only
