@@ -9,6 +9,9 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 ## Structured (Tabular) Data
 
 ### DVC Only
+[Lenkit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment) - This repository contains a demo experiment for running LensKit experiments on public data sets with current best practices for moderately-sized experiments.
+[Covid Genomics/airflow-dvc](https://github.com/covid-genomics/airflow-dvc) - Airflow extension that adds support for DVC operations.
+[Covid Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs) - This package provides high-level API work easy writing/reading/listing files inside the DVC. It can be used for automation systems integrated with data pipelines.
 
 ### DVC + CML
 
@@ -16,6 +19,7 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 
 ## 🔤 Unstructured Text Data Projects
 ### DVC Only
+[ModelOrented/MAIR](https://github.com/ModelOriented/MAIR)- The project aims to monitor emerging regulations that have an impact on the creation and usage of solutions that are based on AI.
 
 ### DVC + CML
 
@@ -24,6 +28,7 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 ## 📷 🎥 Unstructured Images/video Data 
 
 ### DVC Only
+[DVC Streamlit Example](https://github.com/sicara/dvc-streamlit-example) - How to build a customizable web UI with DVC and Streamlit.
 
 ### DVC + CML
 
@@ -48,6 +53,11 @@ This is list of Awesome projects using Iterative.AI tools from the Community. It
 ### DVC + CML
 
 ### CML Only
+
+## Other Projects with DVC
+
+### DVC and R
+[{dvthis}](https://github.com/jcpsantiago/dvthis) - The goal of dvthis is to provide utility functions for DVC pipelines using R scripts. An additional goal is to document the usual workflows they enable, and provide a template for projects using DVC and R.
 
 
 
