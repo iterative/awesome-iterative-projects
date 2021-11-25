@@ -35,7 +35,3 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations.
 
 * Survival Analysis Reproducible ML - [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc)
-
-* OpenVaccine Covid-19 Vaccine Prediction - [mRNA Vaccine Degradation Prediction](https://dagshub.com/kingabzpro/mRNA-Vaccine-Degradation-Prediction)
-
-* Pretrained Discord Chatbot - [DailoGPT-Rick](https://dagshub.com/kingabzpro/DailoGPT-RickBot)
