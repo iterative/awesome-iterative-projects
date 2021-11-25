@@ -15,7 +15,16 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ## Tutorials
 * [DVC Streamlit Example](https://github.com/sicara/dvc-streamlit-example): Build a custom web UI with DVC and Streamlit for visually tracking & comparing model performance during R&D (adapted from [TensorFlow's transfer learning tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning)).
+* [DVC Pipelines and Experiments Tutorial](https://github.com/dmesquita/dvc_pipelines_and_experiments_tutorial): Build maintainable Machine Learning pipelines using DVC.
+* [CD4ML Example](https://github.com/sbalnojan/cd4ml-example): Example DVC setup with AWS S3 & GitLab.
+
+### Iterative
+* [Example-get-started](https://github.com/iterative/example-get-started): Train a `sklearn` random forest classifier for StackOverflow question tagging.
+* [Example-DVC-experiments](https://github.com/iterative/example-dvc-experiments): Train a Tensorflow CNN classifier for Fashion-MNIST data; used in https://dvc.org/doc/start/experiments.
+* [Example-versioning](https://github.com/iterative/example-versioning): Used in https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial.
+* [DVC-Checkpoints-MNIST](https://github.com/iterative/dvc-checkpoints-mnist): A showcase for different ways to use the checkpoints. Train a PyTorch classifier on a CSV MNIST dataset.
 
 ## Real-world Projects
 * [LensKit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment): Demo DVC experiment [pipeline (DAG)](https://dvc.org/doc/user-guide/glossary#pipeline-DAG) using multiple public datasets, preprocessing & training, and Jupyter notebooks.
-* [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations.
+* [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations with a DVC pipeline.
+* [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
