@@ -4,7 +4,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is list of Awesome projects using Iterative.AI tools from the Community. It will serve as a resource for all of our Community to help people conceptualize the different use cases for our tools.  We invite Community members to submit their projects to this list under the appropriate category below.  We look forward to sharing with the World all the amazing things our community builds with our tools and how they do it!
+A list of projects relying on [Iterative](https://github.com/iterative) tools to achieve awesomeness.
+
+Missing something awesome? Anyone is welcome to [submit projects to this list](https://github.com/iterative/awesome-iterative-projects/blob/main/contributing.md).
 
 ## Tools & Libraries
 * [`dvthis`](https://github.com/jcpsantiago/dvthis) - Utility functions and project templates for DVC pipelines using R.
