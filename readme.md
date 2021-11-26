@@ -10,7 +10,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ## Tools & Libraries
 * [`dvthis`](https://github.com/jcpsantiago/dvthis): Utility functions and project templates for DVC pipelines using R.
-* [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc): The DVC plugin for neovim
+* [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc): Neovim plugin for DVC.
 * [COVID Genomics/Airflow-DVC](https://github.com/covid-genomics/airflow-dvc): Airflow extension for DVC.
 * [COVID Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs): High-level abstraction for DVC file manipulation (listing & I/O) with basic support for [PyFilesystem2](https://github.com/PyFilesystem/pyfilesystem2).
 
