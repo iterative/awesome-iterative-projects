@@ -30,3 +30,5 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [LensKit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment): Demo DVC experiment [pipeline (DAG)](https://dvc.org/doc/user-guide/glossary#pipeline-DAG) using multiple public datasets, preprocessing & training, and Jupyter notebooks.
 * [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations with a DVC pipeline.
 * [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
+* [DVC with PyCaret & FastAPI](https://github.com/tezansahu/dvc-pycaret-fastapi-demo): Demo about using DVC (for data & model tracking) along with PyCaret (for efficient experimentation) & FastAPI (for model deployment)
+* [VQA-With-Multimodal-Transformers](https://github.com/tezansahu/VQA-With-Multimodal-Transformers): Experimentation with various multimodal [transformer models](https://huggingface.co/docs/transformers/index) for the Visual Question Answering task on [DAQUAR Dataset](https://www.kaggle.com/tezansahu/processed-daquar-dataset), all tracked with DVC.
