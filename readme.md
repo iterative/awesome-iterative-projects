@@ -32,3 +32,4 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR): Monitoring impact of AI regulations with a DVC pipeline.
 * [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
 * [VQA-With-Multimodal-Transformers](https://github.com/tezansahu/VQA-With-Multimodal-Transformers): Visual Question Answering task on the [DAQUAR Dataset](https://www.kaggle.com/tezansahu/processed-daquar-dataset) using multimodal [transformer models](https://huggingface.co/docs/transformers/index) with an experiment pipeline tracked in DVC Studio.
+* [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity): `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate _uncertainty_ in predictions of future cell states from minimal models approximating transcript splicing dynamics.
