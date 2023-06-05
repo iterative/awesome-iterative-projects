@@ -1,4 +1,4 @@
-[![](https://static.iterative.ai/logo/enterprise.svg)](https://iterative.ai) [![](https://static.iterative.ai/logo/dvc.svg)](https://dvc.org) [![](https://static.iterative.ai/logo/cml.svg)](https://cml.dev) [![](https://static.iterative.ai/logo/studio.svg)](https://studio.iterative.ai)
+[![](https://static.iterative.ai/logo/enterprise.svg)](https://iterative.ai) [![](https://static.iterative.ai/logo/dvc.svg)](https://dvc.org) [![](https://static.iterative.ai/logo/cml.svg)](https://cml.dev) [![](https://static.iterative.ai/logo/mlem.svg)](https://mlem.ai) [![](https://static.iterative.ai/logo/studio.svg)](https://studio.iterative.ai)
 
 # Awesome Iterative Projects
 
