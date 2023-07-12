@@ -14,6 +14,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [COVID Genomics/Airflow-DVC](https://github.com/covid-genomics/airflow-dvc): Airflow extension for DVC.
 * [COVID Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs): High-level abstraction for DVC file manipulation (listing & I/O) with basic support for [PyFilesystem2](https://github.com/PyFilesystem/pyfilesystem2).
 * [zincware/ZnTrack](https://github.com/zincware/ZnTrack): Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
+* [zincware/dask4dvc](https://github.com/zincware/dask4dvc): Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) 
 
 ## Tutorials
 * [DVC Streamlit Example](https://github.com/sicara/dvc-streamlit-example): Build a custom web UI with DVC and Streamlit for visually tracking & comparing model performance during R&D (adapted from [TensorFlow's transfer learning tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning)).
