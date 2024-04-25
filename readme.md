@@ -27,6 +27,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [Example-DVC-experiments](https://github.com/iterative/example-dvc-experiments): Train a Tensorflow CNN classifier for Fashion-MNIST data; used in https://dvc.org/doc/start/experiments.
 * [Example-versioning](https://github.com/iterative/example-versioning): Used in https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial.
 * [DVC-Checkpoints-MNIST](https://github.com/iterative/dvc-checkpoints-mnist): A showcase for different ways to use the checkpoints. Train a PyTorch classifier on a CSV MNIST dataset.
+* [Scalable and Distributed ML Workflows with DVC + Ray on AWS](https://github.com/iterative/tutorial-mnist-dvc-ray): This tutorial introduces you to integrating DVC with Ray, turning them into your go-to toolkit for creating automated, scalable, and distributed ML pipelines.
 
 ## Real-world Projects
 * [LensKit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment): Demo DVC experiment [pipeline (DAG)](https://dvc.org/doc/user-guide/glossary#pipeline-DAG) using multiple public datasets, preprocessing & training, and Jupyter notebooks.
