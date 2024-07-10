@@ -35,3 +35,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
 * [VQA-With-Multimodal-Transformers](https://github.com/tezansahu/VQA-With-Multimodal-Transformers): Visual Question Answering task on the [DAQUAR Dataset](https://www.kaggle.com/tezansahu/processed-daquar-dataset) using multimodal [transformer models](https://huggingface.co/docs/transformers/index) with an experiment pipeline tracked in DVC Studio.
 * [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity): `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate _uncertainty_ in predictions of future cell states from minimal models approximating transcript splicing dynamics.
+
+## Research Papers
+* [DVC in Open Source ML-development: The Action and the
+Reaction](https://dl.acm.org/doi/pdf/10.1145/3644815.3644965): (@mrsumitbd, et. al.) Research on usage patterns of DVC and the implications for software development and future tool development.
