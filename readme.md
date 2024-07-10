@@ -37,5 +37,6 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity): `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate _uncertainty_ in predictions of future cell states from minimal models approximating transcript splicing dynamics.
 
 ## Research Papers
-* [DVC in Open Source ML-development: The Action and the
-Reaction](https://dl.acm.org/doi/pdf/10.1145/3644815.3644965): (@mrsumitbd, et. al.) Research on usage patterns of DVC and the implications for software development and future tool development.
+* Barrak, A., Eghan, E.E. and Adams, B. [On the Co-evolution of ML Pipelines and Source Code - Empirical Study of DVC Projects](https://mcis.cs.queensu.ca/publications/2021/saner.pdf) , in Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution, and Reengineering, SANER 2021. Hawaii, USA.
+
+* Barreto Simedo Pacheco, L., Rahman, M., Rabbi, F., Fathollahzadeh, P., Abdellatif, A., Shihab, E., Chen, T.P., Yang, J., and Zou, Y. [DVC in Open Source ML-development: The Action and the Reaction](https://dl.acm.org/doi/pdf/10.1145/3644815.3644965), In Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI (CAIN '24). Lisbon, Portugal.
