@@ -35,3 +35,8 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
 * [VQA-With-Multimodal-Transformers](https://github.com/tezansahu/VQA-With-Multimodal-Transformers): Visual Question Answering task on the [DAQUAR Dataset](https://www.kaggle.com/tezansahu/processed-daquar-dataset) using multimodal [transformer models](https://huggingface.co/docs/transformers/index) with an experiment pipeline tracked in DVC Studio.
 * [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity): `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate _uncertainty_ in predictions of future cell states from minimal models approximating transcript splicing dynamics.
+
+## Research Papers
+* Barrak, A., Eghan, E.E. and Adams, B. [On the Co-evolution of ML Pipelines and Source Code - Empirical Study of DVC Projects](https://mcis.cs.queensu.ca/publications/2021/saner.pdf) , in Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution, and Reengineering, SANER 2021. Hawaii, USA.
+
+* Barreto Simedo Pacheco, L., Rahman, M., Rabbi, F., Fathollahzadeh, P., Abdellatif, A., Shihab, E., Chen, T.P., Yang, J., and Zou, Y. [DVC in Open Source ML-development: The Action and the Reaction](https://dl.acm.org/doi/pdf/10.1145/3644815.3644965), In Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI (CAIN '24). Lisbon, Portugal.
